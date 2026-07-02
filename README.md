@@ -95,6 +95,10 @@ The pipeline generates:
 
 ---
 
+## Output Screenshot
+
+![Chart](output/chart.png)
+
 ## ETL Workflow
 
 ```
